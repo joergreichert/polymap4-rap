@@ -220,4 +220,11 @@ public class Upload
         }
     }
 
+
+    /**
+     * @param svgImage
+     */
+    public void setImage( Image svgImage ) {
+        fileUpload.setImage( svgImage );
+    }
 }

@@ -8,6 +8,5 @@
 	<classpathentry kind="lib" path="lib/hamcrest-core-1.1.jar" sourcepath="lib/sources/hamcrest-core-1.1-sources.zip"/>
 	<classpathentry kind="lib" path="lib/mockito-core-1.10.19.jar" sourcepath="lib/sources/mockito-core-1.10.19-sources.zip"/>
 	<classpathentry kind="lib" path="lib/objenesis-2.1.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

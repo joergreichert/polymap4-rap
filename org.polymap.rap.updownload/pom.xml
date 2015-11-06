@@ -9,13 +9,7 @@
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 
-	<groupId>org.polymap.rap</groupId>
-	<artifactId>org.polymap.rap.parent</artifactId>
-	<packaging>pom</packaging>
+	<artifactId>org.polymap.rap.updownload</artifactId>
+	<packaging>eclipse-plugin</packaging>
 	<version>2.0.0-SNAPSHOT</version>
-	
-	<modules>
-		<module>org.polymap.rap.openlayers</module>
-		<module>org.polymap.rap.updownload</module>
-	</modules>
 </project>
